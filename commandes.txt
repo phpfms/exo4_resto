@@ -1,0 +1,14 @@
+**************** Résumé de la commande N°1 ****************
+quiche
+poulet
+légumes
+eau plate
+mousse au chocolat
+
+**************** Résumé de la commande N°2 ****************
+salade
+steak
+frites
+coca
+tarte aux pommes
+
